@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import * as rb from 'react-bootstrap'
 import { Route, Switch, Link } from 'react-router-dom'
 import loadable from '@loadable/component'
@@ -8,7 +8,7 @@ const ResultsTodo = loadable(() => import('./components/ResultsTodo'))
 const UpdateTodo = loadable(() => import('./components/UpdateTodo'))
 
 const Navbar = () => (
-  <rb.Navbar expand='lg' bg='dark'>
+  <rb.Navbar bg='dark'>
     <rb.Navbar.Brand href='/'>
       <h4 className='text-light'> Redux Saga </h4>
     </rb.Navbar.Brand>
