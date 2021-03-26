@@ -52,7 +52,7 @@
     "@babel/plugin-transform-shorthand-properties": "^7.10.4",
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.2",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
     "autoprefixer": "^10.2.5",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
