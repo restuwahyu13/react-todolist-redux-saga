@@ -110,7 +110,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "postcss-clean": "^1.2.2",
     "postcss-flexbugs-fixes": "^5.0.2",
-    "postcss-import": "^12.0.1",
+    "postcss-import": "^14.0.2",
     "postcss-loader": "^4.2.0",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.3.0",
