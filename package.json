@@ -131,7 +131,7 @@
     "unminified-webpack-plugin": "^2.0.0",
     "url-loader": "^4.1.1",
     "webpack": "^4.46.0",
-    "webpack-bundle-analyzer": "^4.4.2",
+    "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.8.0",
     "webpack-common-shake": "^2.1.0",
     "webpack-dev-server": "^4.2.1",
