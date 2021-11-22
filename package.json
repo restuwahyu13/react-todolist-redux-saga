@@ -78,7 +78,7 @@
     "css-hot-loader": "^1.4.4",
     "css-loader": "^5.2.7",
     "cssnano": "^5.0.8",
-    "cssnano-preset-advanced": "^4.0.7",
+    "cssnano-preset-advanced": "^5.1.7",
     "dotenv-webpack": "^7.0.3",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
