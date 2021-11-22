@@ -63,7 +63,7 @@
     "babel-plugin-minify-flip-comparisons": "^0.4.3",
     "babel-plugin-react-html-attrs": "^3.0.5",
     "babel-plugin-remove-export-keywords": "^1.6.22",
-    "babel-plugin-styled-components": "^1.13.3",
+    "babel-plugin-styled-components": "^2.0.1",
     "babel-plugin-transform-inline-consecutive-adds": "^0.4.3",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "babel-plugin-transform-remove-console": "^6.9.4",
