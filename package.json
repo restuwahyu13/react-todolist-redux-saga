@@ -92,7 +92,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.26.1",
-    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-react-redux": "^3.3.2",
     "eslint-plugin-security": "^1.4.0",
     "favicons-webpack-plugin": "^4.2.0",
