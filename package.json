@@ -24,7 +24,7 @@
   "author": "restuwahyu13",
   "license": "MIT",
   "dependencies": {
-    "@loadable/component": "^5.15.0",
+    "@loadable/component": "^5.15.2",
     "axios": "^0.24.0",
     "bootstrap": "^5.1.1",
     "connected-react-router": "^6.9.2",
