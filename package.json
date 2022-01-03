@@ -27,7 +27,7 @@
     "@loadable/component": "^5.15.0",
     "axios": "^0.24.0",
     "bootstrap": "^5.1.1",
-    "connected-react-router": "^6.9.1",
+    "connected-react-router": "^6.9.2",
     "history": "^4.10.1",
     "react": "^16.14.0",
     "react-bootstrap": "^2.1.0",
