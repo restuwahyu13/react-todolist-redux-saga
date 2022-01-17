@@ -124,7 +124,7 @@
     "styled-jsx": "^4.0.1",
     "stylelint": "^13.13.1",
     "stylelint-config-recommended-scss": "^4.3.0",
-    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-csstree-validator": "^2.0.0",
     "stylelint-images": "^2.0.1",
     "stylelint-scss": "^3.21.0",
     "terser-webpack-plugin": "^4.2.3",
