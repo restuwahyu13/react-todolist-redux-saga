@@ -30,7 +30,7 @@
     "connected-react-router": "^6.9.2",
     "history": "^4.10.1",
     "react": "^16.14.0",
-    "react-bootstrap": "^2.1.2",
+    "react-bootstrap": "^2.2.2",
     "react-dom": "^16.14.0",
     "react-redux": "^7.2.6",
     "react-router-dom": "^6.2.2",
