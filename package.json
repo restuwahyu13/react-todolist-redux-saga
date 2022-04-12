@@ -142,6 +142,6 @@
     "webpack-stats-plugin": "^1.0.3",
     "webpack-visualizer-plugin": "^0.1.11",
     "webpackbar": "^4.0.0",
-    "workbox-webpack-plugin": "^6.5.1"
+    "workbox-webpack-plugin": "^6.5.3"
   }
 }
