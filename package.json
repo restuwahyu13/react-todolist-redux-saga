@@ -113,7 +113,7 @@
     "postcss-import": "^14.1.0",
     "postcss-loader": "^4.2.0",
     "postcss-preset-env": "^7.4.3",
-    "prettier": "^2.5.1",
+    "prettier": "^2.7.0",
     "prop-types": "^15.7.2",
     "react-refresh": "^0.8.3",
     "react-test-renderer": "^16.14.0",
